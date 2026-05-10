@@ -19,9 +19,3 @@ Maze Game is a 3D interactive game developed in Unity using C#. The player navig
 - Scripts
 - Assets
 - Scenes
-
-## Run Locally
-Open the project in Unity and run the main scene from the Unity Editor.
-
-## Screenshots
-Add screenshots of gameplay, maze environment, and win/loss screens here.
